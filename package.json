@@ -1,0 +1,24 @@
+{
+  "name": "fakegithubgraphrepo",
+  "version": "1.0.0",
+  "description": "bot home dir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libramatyas/fakegithubgraphrepo.git"
+  },
+  "author": "Czechian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libramatyas/fakegithubgraphrepo/issues"
+  },
+  "homepage": "https://github.com/libramatyas/fakegithubgraphrepo#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.3",
+    "simple-git": "^3.7.1"
+  }
+}
